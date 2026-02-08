@@ -15,7 +15,7 @@ Estudante de **Engenharia de Software** (1º Semestre) em busca da minha primeir
 - **Ferramentas:** Git (Versionamento), MySQL (Banco de Dados).
 - **Conhecimentos:** Lógica computacional e desenvolvimento de jogos.
 
-### 🕹️ Desenvolvimento de Jogo (C + Raylib)
+### 🎮 Desenvolvimento de Jogo (C + Raylib)
 *Projeto focado em fundamentos de baixo nível e arquitetura de software.*
 
 **Principais desafios técnicos superados:**
@@ -24,20 +24,15 @@ Estudante de **Engenharia de Software** (1º Semestre) em busca da minha primeir
 - **Gráficos e Estética:** Estudo de pixel art, perspectiva de cenário e implementação de efeito **Parallax**.
 - **Animação:** Desenvolvimento de lógica para manipulação e transição de spritesheets.
 
-
-    [![Demonstração do Jogo em C](https://img.youtube.com)](https://youtu.be/yd1Qfkkm8I4)
-    [![Demonstração do Jogo em C](https://img.youtube.com)](https://youtu.be/yd1Qfkkm8I4)
-    [![Demonstração do Jogo em C](http://img.youtube.com)](https://youtu.be/yd1Qfkkm8I4)
-    [![Demonstração do Jogo em C](https://i.ytimg.com)](https://youtu.be/yd1Qfkkm8I4)
-
-
-
+  *Clique na imagem para assistir a demonstração no YouTube.*
+  [![Demonstração do Jogo em C](https://img.youtube.com/vi/yd1Qfkkm8I4/maxresdefault.jpg)](https://youtu.be/yd1Qfkkm8I4)
 
 
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/messias-deziderio-0a95a5318/)
 - [E-mail](messias.bleach@gmail.com)
+- [Youtube](https://www.youtube.com/@messiasbleach)
 
 
 
