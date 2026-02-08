@@ -1,6 +1,6 @@
-<h1>Bem Vindos</h1>
 
-# Olá, eu sou [Messias Deziderio] 👋
+
+# Olá, eu sou Messias Deziderio 👋
 
 Estudante de **Engenharia de Software** (1º Semestre) em busca da minha primeira oportunidade de estágio. Tenho uma base sólida de 2 anos de estudos autodidatas iniciados antes da graduação, com foco em lógica de programação e desenvolvimento de software.
 
