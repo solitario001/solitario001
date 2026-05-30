@@ -1,6 +1,6 @@
 # Olá, eu sou Messias Deziderio 👋
 
-Estudante de **Engenharia de Software** (3º Semestre — início em Junho/2026). Comecei meus estudos autodidatas 2 anos antes da graduação e desde então venho construindo projetos que vão do C puro até integração com IA generativa. Em busca da minha primeira oportunidade de estágio.
+Estudante de **Engenharia de Software**. Comecei meus estudos autodidatas 2 anos antes da graduação e desde então venho construindo projetos que vão do C puro até integração com IA generativa. Em busca da minha primeira oportunidade de estágio.
 
 ## 🚀 Sobre Mim
 - 🎓 Cursando Engenharia de Software (3º Semestre a partir de Junho/2026).
@@ -19,28 +19,72 @@ Estudante de **Engenharia de Software** (3º Semestre — início em Junho/2026)
 
 ## 📂 Projetos
 
-### 🤖 Lyly Corpo — Avatar VRM com IA Generativa
-*Aplicação desktop Electron que renderiza um avatar 3D com expressões emocionais controladas por LLM local.*
+### Lyly — Avatar VRM com IA Generativa
 
-- **Stack:** Electron + Three.js + VRM, Ollama (Meta-Llama/Gemma), ChromaDB, F5-TTS.
-- **O que aprendi:** Pipeline TTS zero-disk em RAM, sincronia lip-sync com fila de áudio real, memória vetorial com RAG, análise emocional contextual, anti-flickering em blendshapes GPU diretos.
-- **Arquitetura liderada por mim, codificada com IA como co-pilot.**
+*Avatar virtual 3D com inteligência artificial local, memória vetorial, síntese de voz em tempo real e expressões emocionais procedurais.,Projeto idealizado, arquitetado e validado por mim, utilizando IA como ferramenta de desenvolvimento assistido.*
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vW6walwxW6k">
+    <img src="https://img.youtube.com/vi/vW6walwxW6k/maxresdefault.jpg" width="800" alt="Lyly Demo">
+  </a>
+</p>
+
+<p align="center">
+  <b>Clique na imagem para assistir à demonstração completa.</b>
+</p>
+
+* **Stack:** Electron, Three.js, VRM, Node.js, Ollama, ChromaDB, F5-TTS, Python.
+
+* **Recursos implementados:**
+
+  * Expressões faciais emocionais em tempo real.
+  * Lip-sync sincronizado com áudio gerado por IA.
+  * Memória vetorial utilizando ChromaDB (RAG).
+  * Pipeline TTS zero-disk com processamento em RAM.
+  * Sistema de reflexão e contexto conversacional.
+  * Renderização procedural sem animações pré-gravadas.
+
+* **O que aprendi:**
+
+  * Arquitetura desktop com Electron IPC.
+  * Integração de múltiplos serviços de IA local.
+  * Gerenciamento de estado para animações faciais complexas.
+  * Processamento de áudio em tempo real.
+  * Engenharia de prompts e orquestração de LLMs.
+
+🔗 Repositório: https://github.com/solitario001/lyly
+
+---
 
 ### 🅿️ Gerenciador de Estacionamento — Fullstack CRUD
+
 *Sistema web completo para cadastro e gerenciamento de veículos.*
 
-- **Stack:** Node.js + Express, MySQL, Bootstrap 5, JavaScript Vanilla.
-- **O que aprendi:** API REST com validação backend (regex), consumo assíncrono via `fetch`, tratamento de erros no cliente, controle de estado para evitar conflitos de ação simultânea.
+* **Stack:** Node.js, Express.js, MySQL, Bootstrap 5.
+* **O que aprendi:** API REST, validação backend com regex, integração frontend/backend, tratamento de erros, controle de estado e operações assíncronas.
+
+🔗 Repositório: https://github.com/solitario001/ParkEase
+
+---
 
 ### 🎮 Jogo 2D em C — Raylib API
-*Meu primeiro projeto prático em C. Plataforma side-scroller com inimigos e boss.*
 
-- **Stack:** C puro + Raylib API.
-- **O que aprendi:** Parallax scrolling (5 camadas), bullet hell patterns (25 projéteis circulares), state machines de IA (chase/dodge/attack), animação por spritesheet, física de gravidade e jump smooth, afterimage effects.
-- **Decisão consciente:** Parei quando o código ficou insustentável e fui aprender mais antes de refatorar — lição de débito técnico que carrego até hoje.
+*Meu primeiro projeto em C. Plataforma side-scroller com inimigos, chefes e sistemas de combate.*
 
-  *Clique na imagem para assistir a demonstração no YouTube.*
-  [![Demonstração do Jogo em C](https://img.youtube.com/vi/yd1Qfkkm8I4/maxresdefault.jpg)](https://youtu.be/yd1Qfkkm8I4)
+* **Stack:** C puro + Raylib API.
+* **O que aprendi:** Parallax scrolling, bullet hell patterns, state machines, spritesheets, física básica e organização de gameplay systems.
+* **Lição importante:** Foi o projeto que me ensinou na prática o custo do débito técnico e a importância de arquitetura e manutenção de código.
+
+<p align="center">
+  <a href="https://youtu.be/yd1Qfkkm8I4">
+    <img src="https://img.youtube.com/vi/yd1Qfkkm8I4/maxresdefault.jpg" width="800" alt="Jogo em C">
+  </a>
+</p>
+
+<p align="center">
+  <b>Clique na imagem para assistir à demonstração.</b>
+</p>
+
 
 ---
 
